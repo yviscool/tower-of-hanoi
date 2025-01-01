@@ -1,6 +1,4 @@
-以下是基于 `digital-puzzle` 项目的 `README.md` 文件内容，为 `yviscool` 的汉诺塔项目编写的 `README.md` 文件：
 
----
 
 # 汉诺塔 - Tower of Hanoi
 
