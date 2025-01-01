@@ -25,7 +25,7 @@
 ## 🚀 使用方法
 
 ### 在线体验
-直接访问 [tower-of-hanoi](https://tower-of-hanoi.vercel.app/) 即可在线体验。
+直接访问 [tower-of-hanoi](https://tower-of-hanoi-cyan.vercel.app/) 即可在线体验。
 
 ### 本地运行
 1. 克隆项目到本地：
